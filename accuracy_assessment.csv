@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+Agriculture,1.0,1.0,1.0,125.0
+Bare Soil,1.0,1.0,1.0,125.0
+Forest,0.976,0.992,0.984,125.0
+Urban,1.0,1.0,1.0,125.0
+Vegetation,0.992,0.976,0.984,125.0
+Water,1.0,1.0,1.0,125.0
+accuracy,0.995,0.995,0.995,0.995
+macro avg,0.995,0.995,0.995,750.0
+weighted avg,0.995,0.995,0.995,750.0
